@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.glassfish.jersey.test-framework</groupId>
+  <artifactId>project</artifactId>
+  <version>2.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20120401.175400</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20120401175400</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.0-20120401.175400-1</value>
+        <updated>20120401175400</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.glassfish.jersey.media</groupId>
+  <artifactId>jersey-media-json</artifactId>
+  <versioning>
+    <versions>
+      <version>2.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120401175436</lastUpdated>
+  </versioning>
+</metadata>
